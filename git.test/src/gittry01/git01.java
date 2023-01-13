@@ -9,6 +9,6 @@ public class git01 {
         System.out.println("hot-fix");
         System.out.println("master commit 111");
         System.out.println("hot-fix commit111");
-        System.out.println("mmmmmmmmmmmmmmmmmmmmmm");
+
     }
 }
