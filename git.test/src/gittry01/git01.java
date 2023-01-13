@@ -6,5 +6,6 @@ public class git01 {
         System.out.println("hello,java02");
         System.out.println("333333333333333333");
         System.out.println("44444444444444444");
+        System.out.println("hot-fix");
     }
 }
